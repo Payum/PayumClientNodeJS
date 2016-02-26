@@ -1,6 +1,6 @@
 # PayumClientNodeJs
 
-The Node.js client for [PayumServer](https://github.com/Payum/PayumServer)
+The Node.js client for a payment processing micro service: [PayumServer](https://github.com/Payum/PayumServer)
 
 ```js
 var payumServerUri = 'http://localhost';

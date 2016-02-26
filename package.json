@@ -1,7 +1,7 @@
 {
   "name": "payum-client",
-  "version": "0.0.2",
-  "description": "The Node.js client for PayumServer",
+  "version": "0.0.3",
+  "description": "The Node.js client for a payment processing micro service: PayumServer. Supports next payment gateways: Paypal ExpressCheckout, Paypal ProCheckout, Paypal Rest, Stripe.Js, Stripe Checkout, Stripe Direct, Authorize.NET AIM, Be2Bill, Payex, Klarna Checkout, Sofort etc",
   "license": "MIT",
   "dependencies": {
     "request": "2"
