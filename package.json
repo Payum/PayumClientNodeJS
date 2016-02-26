@@ -1,0 +1,14 @@
+{
+  "name": "payum-client",
+  "version": "0.0.2",
+  "description": "The Node.js client for PayumServer",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2"
+  },
+  "_id": "payum-client@0.0.1",
+  "scripts": {},
+  "_shasum": "bd487c6f43e44f9b0a0688e6e784e07ff281d84c",
+  "_from": "payum-client",
+  "_resolved": "file:payum-client"
+}
